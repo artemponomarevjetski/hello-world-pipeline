@@ -1,6 +1,6 @@
 # Hello-World-Pipeline
 
-An example pipeline for Hello World for Kubernetes using a Gitflow(ish) model to deploy to multiple environments.
+An example pipeline for Kubernetes using a Gitflow(ish) model to deploy to multiple environments.
 
 ## Requirements
 
